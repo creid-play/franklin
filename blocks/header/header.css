@@ -1,12 +1,13 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
+  background-color: #002856;
   width: 100%;
   z-index: 2;
   position: fixed;
   border-bottom: solid;
   border-width: 1px;
   border-color: #DDD;
+  color: #FFF;
 }
 
 header nav {
