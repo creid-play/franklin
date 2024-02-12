@@ -12,12 +12,9 @@
   color: #FFF;
 }
 
-.columns > div {
-  margin: 50px;
-}
-
 .columns > div > div {
   order: 1;
+  margin: 50px;
 }
 
 .columns > div > .columns-img-col {
