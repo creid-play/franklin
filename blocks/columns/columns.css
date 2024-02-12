@@ -12,6 +12,10 @@
   color: #FFF;
 }
 
+.columns {
+  margin: 50px;
+}
+
 .columns > div > div {
   order: 1;
 }
