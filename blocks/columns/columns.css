@@ -7,15 +7,12 @@
   width: 100%;
 }
 
-.columns > div > div {
-  order: 1;
+.columns {
+  background-color: #1d1e1e;
 }
 
-.columns > div:first-child {
-  border-left: #DC191F;
-  border-width: 0px 0px 0px 3px;
-  border-style: solid;
-  padding-left: 30px;
+.columns > div > div {
+  order: 1;
 }
 
 .columns > div > .columns-img-col {
