@@ -12,7 +12,7 @@
   color: #FFF;
 }
 
-.columns {
+.columns > div {
   margin: 50px;
 }
 
