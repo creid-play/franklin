@@ -12,11 +12,6 @@
   color: #000;
 }
 
-.columns > div > div {
-  order: 1;
-  margin: 50px;
-}
-
 .columns > div > .columns-img-col {
   order: 0;
 }
