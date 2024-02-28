@@ -8,8 +8,8 @@
 }
 
 .columns {
-  background-color: #1d1e1e;
-  color: #FFF;
+  background-color: none;
+  color: #000;
 }
 
 .columns > div > div {
