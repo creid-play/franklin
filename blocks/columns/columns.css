@@ -4,7 +4,7 @@
 }
 
 .columns > div > div:first-child {
-  margin-top: -50px;
+  /* margin-top: -50px; */
 }
 
 .columns img {
